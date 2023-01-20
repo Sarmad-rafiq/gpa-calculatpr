@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\simple gpa calculator\bin\Debug\simple gpa calculator.exe.config
+C:\Users\HP\Desktop\simple gpa calculator\bin\Debug\simple gpa calculator.exe
+C:\Users\HP\Desktop\simple gpa calculator\bin\Debug\simple gpa calculator.pdb
+C:\Users\HP\Desktop\simple gpa calculator\obj\Debug\simple gpa calculator.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\simple gpa calculator\obj\Debug\simple gpa calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\simple gpa calculator\obj\Debug\simple_gpa_calculator.Form1.resources
+C:\Users\HP\Desktop\simple gpa calculator\obj\Debug\simple_gpa_calculator.Properties.Resources.resources
+C:\Users\HP\Desktop\simple gpa calculator\obj\Debug\simple gpa calculator.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\simple gpa calculator\obj\Debug\simple gpa calculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\simple gpa calculator\obj\Debug\simple gpa calculator.exe
+C:\Users\HP\Desktop\simple gpa calculator\obj\Debug\simple gpa calculator.pdb
